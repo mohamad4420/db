@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">dataBase</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="delete">delete</string>
+    <string name="modify">modify</string>
+    <string name="insart">insart</string>
+    <string name="search">search</string>
+    <string name="display">display</string>
+    <string name="base_salary">Base Salary</string>
+    <string name="rate">Rate</string>
+    <string name="id">id</string>
+    <string name="sex">Sex</string>
+    <string name="total_salary">Total Salary</string>
+    <string name="name">Name</string>
+    <string name="btn_insart">insart</string>
+    <string name="btn_modify">modify</string>
+    <string name="btn_delete">delete</string>
+    <string name="btn_search">search</string>
+    <string name="search_out" />
+    <string name="or">or</string>
+    <string name="enter_id_to_modify">enter id to modify</string>
+    <string name="enter_id_for_deleted">enter id for deleted</string>
+</resources>
